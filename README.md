@@ -30,3 +30,4 @@ This project analyses the Swedish Auto Insurance dataset, which contains 63 obse
 ## Data Source
 
 Swedish Committee on Analysis of Risk Premium in Motor Insurance.
+[Data Source](https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/slr06.html)
